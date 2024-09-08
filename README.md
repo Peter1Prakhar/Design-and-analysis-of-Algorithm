@@ -1,1 +1,1 @@
-This repo is for the resource for the "Design and analysis of algorithm"
+This repo is for the resource of "Design and analysis of algorithm"
